@@ -1,0 +1,2 @@
+pngquant 1.8 or later
+PHP ImageImagick
